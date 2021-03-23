@@ -1,6 +1,7 @@
 {
     "domain": "thermosmart",
     "name": "Thermosmart",
+    "version": "2.0.0",
     "documentation": "https://github.com/theneweinstein/thermosmart_component",
     "dependencies": [],
     "after_dependencies": [],
